@@ -1,4 +1,4 @@
-Aether-Levels
+Disc Levels
 ===
 
 A Discord.js addon to make leveling easier in your server.
@@ -9,7 +9,7 @@ Installing
 
 
 ```
-npm i discord-levels
+npm i disclevels
 ```
 
 Dependencies
