@@ -1,12 +1,12 @@
 {
-  "name": "discord-level",
+  "name": "disclevels",
   "version": "1.0.4",
   "description": "A Discord leveling package for discord.js!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jxckson",
+  "author": "Noxitb",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^13.1.0",

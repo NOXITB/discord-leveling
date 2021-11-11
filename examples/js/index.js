@@ -1,4 +1,4 @@
-const Leveling = require('discord-level'); // [Importing Module]
+const Leveling = require('disclevels'); // [Importing Module]
 const leveling = new Leveling({
   type: 'json', // [It also can be 'mongodb']
   jsonPath: './db.json', // [For 'json' type. Must be end with '.json'!]
