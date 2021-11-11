@@ -1,0 +1,29 @@
+{
+  "name": "discord-level",
+  "version": "1.0.4",
+  "description": "A Discord leveling package for discord.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jxckson",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "mongoose": "^5.13.8",
+    "fs": "0.0.1-security"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOXITB/discord-leveling"
+  },
+  "bugs": {
+    "url": "https://github.com/NOXITB/discord-leveling"
+  },
+  "homepage": "https://github.com/NOXITB/discord-leveling#readme",
+  "keywords": []
+}
